@@ -13,8 +13,8 @@ The motivation behind this project is to make owning a houseplant an easy proces
 
 # Screenshots #
 
-<img src="images/Activities.png" width="155" height="300"> <img src="images/MyPlants.png" width="155" height="300"> 
-<img src="images/Awards.png" width="155" height="300"> <img src="images/Profile.png" width="155" height="300">
+<img src="images/Activities.PNG" width="155" height="300"> <img src="images/MyPlants.PNG" width="155" height="300"> 
+<img src="images/Awards.PNG" width="155" height="300"> <img src="images/Profile.PNG" width="155" height="300">
 
 # Framework used #
 
